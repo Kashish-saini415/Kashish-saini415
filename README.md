@@ -6,8 +6,8 @@
 ---
 
 ### 💻 About Me:
-- 🔭 I’m currently working on **[Some Project ]**
-- 🌱 I’m currently learning **[Full stack Developer]**
+- 🔭 I’m currently working on **Some Project**
+- 🌱 I’m currently learning **Full stack Developer**
 - ⚡ Fun fact: I spend more time debugging than writing code! ☕
 
 ### 🛠 Tech Stack:

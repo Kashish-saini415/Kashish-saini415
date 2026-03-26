@@ -24,4 +24,6 @@
 ---
 
 ### 📊 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish-saini415&show_icons=true&theme=radical)
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish-saini415&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-saini415&layout=compact&theme=radical)

@@ -23,7 +23,8 @@
 
 ---
 
-### 📊 My GitHub Stats:
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish-saini415&show_icons=true&theme=radical&rank_icon=github)
+### 📊 GitHub Activity:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-saini415&layout=compact&theme=radical)
+![Kashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kashish-saini415&theme=react-dark)
+
+![Kashish's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kashish-saini415&show_icons=true&theme=tokyonight)

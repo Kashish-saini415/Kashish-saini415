@@ -24,4 +24,4 @@
 ---
 
 ### 📊 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Kashish-saini415]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish-saini415&show_icons=true&theme=radical)

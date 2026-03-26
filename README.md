@@ -6,9 +6,9 @@
 ---
 
 ### 💻 About Me:
-- 🔭 I’m currently working on **Some Project**
-- 🌱 I’m currently learning **Full stack Developer**
-- ⚡ Fun fact: I spend more time debugging than writing code! ☕
+-  I’m currently working on **Some Project**
+-  I’m currently learning **Full stack Developer**
+-  Fun fact: I spend more time debugging than writing code! 
 
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

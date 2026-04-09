@@ -22,6 +22,10 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ---
+### 📂 Case Studies & Documentation
+* *[B2B Sales Deck Strategy - Postman] (https://docs.google.com/document/d/1czBdZ5rr0rPAQarR4muESpTquicOiUCJSFV__2Tp3WQ/edit?usp=sharing))*
+  * Developed a 15-slide comprehensive visibility strategy for Postman leadership.
+  * Focused on Multi-profile authority, LinkedIn algorithms, and B2B lead generation.
 
 ### 📊 GitHub Activity:
 

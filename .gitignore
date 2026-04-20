@@ -1,4 +1,11 @@
+# Security: This is the most important part
 .env
+
+# Python Virtual Environment
 venv/
 __pycache__/
 *.pyc
+
+# System specific files (Jo aapne pucha)
+.DS_Store
+Thumbs.db

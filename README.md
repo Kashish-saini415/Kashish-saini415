@@ -20,6 +20,13 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Strands Agents](https://img.shields.io/badge/Strands%20Agents-AI%20Framework-blueviolet?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-LLM%20API-orange?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-Model%20Interface-lightblue?style=for-the-badge)
+![Kiro IDE](https://img.shields.io/badge/Kiro-AI%20IDE-ff69b4?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 ### 📂 Case Studies & Documentation

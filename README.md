@@ -81,7 +81,6 @@ Benchmarking deep generative models in **PyTorch** on Kaggle T4 GPUs:
 
 ### 📊 GitHub Stats
 
-[![Kashish's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kashish-saini415&show_icons=true&theme=tokyonight)](https://github.com/Kashish-saini415)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kashish-saini415&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
